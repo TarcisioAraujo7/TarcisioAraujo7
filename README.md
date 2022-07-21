@@ -4,7 +4,7 @@
   My name is Tarcisio Almeida, I was born in Brazil, in 2002. I study computer engineering at [UFS](https://www.ufs.br/), and I'm always looking to learn more about technology🖥.
   
 ***
-- Currently studying Imperative Programming with Python.
+- Currently studying object oriented programming with Java, and data structure with C.
 - I'm interested in learning about machine learning, AI and data science.
 <div align="center">
   <a href="https://github.com/TarcisioAraujo7">

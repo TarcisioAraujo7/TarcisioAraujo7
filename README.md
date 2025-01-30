@@ -1,11 +1,12 @@
 ### Hi there 👋🏾
-##
-### About Me
-  My name is Tarcisio Almeida, I was born in Brazil, in 2002. I study computer engineering at [UFS](https://www.ufs.br/), and I'm always looking to learn more about technology🖥.
-  
+
+## About Me
+My name is Tarcisio Almeida, I was born in Brazil in 2002. I study computer engineering at [UFS](https://www.ufs.br/), and I'm always looking to learn more about technology 🖥.
+
 ***
-- Currently studying algorithm design and analysis, database and spring .
-- I'm interested in learning about machine learning, AI and data science.
+- 💻 **PHP Laravel Pleno Developer**
+- 📚 Currently studying advanced Laravel, design patterns, and database optimization.
+- 🚀 Interested in learning more about Software Architecture & Design Patterns.
 
 <div align="center">
   <a href="https://github.com/TarcisioAraujo7">
